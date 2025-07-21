@@ -14,6 +14,8 @@ __pycache__/
 .env.db
 .env.mongodb*
 
+.history/
+
 # 系统文件
 .DS_Store
 Thumbs.db
